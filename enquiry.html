@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Basic information about the webpage -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Enquiry | Herbs Connect</title>
+
+    <meta name="description"
+          content="Send an enquiry to Herbs Connect about our traditional herbal wellness products.">
+
+    <!-- Link to the stylesheet for the subpages -->
+    <link rel="stylesheet" href="css_assets/subpages.css">
+
+</head>
+
+<body>
+
+    <!-- Website header and navigation -->
+    <header>
+        <nav>
+
+            <a href="index.html">Herbs Connect</a>
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+
+    <!-- Main content of the enquiry page -->
+    <main>
+
+        <!-- Introduction -->
+        <section>
+            <h1>Product Enquiry</h1>
+
+            <p>
+                If you would like more information about our herbal wellness
+                products, you can send us an enquiry using the form below.
+            </p>
+
+            <p>
+                Please provide your details and select the product you are
+                interested in. A member of Herbs Connect can then respond
+                to your enquiry.
+            </p>
+        </section>
+
+
+        <!-- Enquiry form -->
+        <section>
+
+            <h2>Send Us an Enquiry</h2>
+
+            <form action="#" method="post">
+
+                <!-- Full name -->
+                <div>
+                    <label for="name">Full Name:</label>
+
+                    <input
+                        type="text"
+                        id="name"
+                        name="name"
+                        placeholder="Enter your full name"
+                        required
+                    >
+                </div>
+
+
+                <!-- Email address -->
+                <div>
+                    <label for="email">Email Address:</label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="Enter your email address"
+                        required
+                    >
+                </div>
+
+
+                <!-- Phone number -->
+                <div>
+                    <label for="phone">Phone Number:</label>
+
+                    <input
+                        type="tel"
+                        id="phone"
+                        name="phone"
+                        placeholder="Enter your phone number"
+                    >
+                </div>
+
+
+                <!-- Product selection -->
+                <div>
+                    <label for="product">Product:</label>
+
+                    <select id="product" name="product" required>
+
+                        <option value="">
+                            Select a product
+                        </option>
+
+                        <option value="herbal-tea">
+                            Herbal Tea Blends
+                        </option>
+
+                        <option value="dried-herbs">
+                            Dried Herbs
+                        </option>
+
+                        <option value="herbal-balms">
+                            Herbal Balms
+                        </option>
+
+                    </select>
+                </div>
+
+
+                <!-- Enquiry message -->
+                <div>
+                    <label for="message">Your Enquiry:</label>
+
+                    <textarea
+                        id="message"
+                        name="message"
+                        rows="6"
+                        placeholder="Write your enquiry here..."
+                        required
+                    ></textarea>
+                </div>
+
+
+                <!-- Form buttons -->
+                <div>
+                    <button type="submit">Send Enquiry</button>
+
+                    <button type="reset">Clear Form</button>
+                </div>
+
+            </form>
+
+        </section>
+
+    </main>
+
+
+    <!-- Website footer -->
+    <footer>
+        <p>&copy; 2026 Herbs Connect. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
