@@ -170,3 +170,21 @@ Sitemap
                          │       CONTACT       │
                          │    contact.html     │
                          └─────────────────────┘
+
+ ## Responsive Design Evidence
+
+### Desktop View (Surface Pro 10)
+![Desktop View](<evidence/Proof(desktop Surface Pro 10).png>)
+
+### Tablet View (iPad Pro 13)
+![iPad Pro View](<evidence/Proof-index.html(iPad Pro 13).png>)
+
+### Mobile Views
+* **iPhone 16 Pro Max:**
+  ![iPhone 16 Pro Max](<evidence/Proof-index.html(iPhone 16 Pro Max).png>)
+
+* **Samsung Galaxy A55 (Landscape):**
+  ![Samsung Galaxy A55 Landscape](<evidence/Proof-index.html(Samsung Galaxy A55. landscape).png>)
+
+* **Samsung Galaxy A55 (Portrait):**
+  ![Samsung Galaxy A55 Portrait](<evidence/Proof-index.html(Samsung Galaxy A55. Protrait).png>)                        
