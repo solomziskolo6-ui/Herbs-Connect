@@ -200,3 +200,36 @@ footer {
 footer p {
     margin: 0;
 }
+/* --- Responsive Mobile Views (Screens under 768px wide) --- */
+@media (max-width: 768px) {
+  /* Fix the squished header navigation */
+  header {
+    padding: 15px 20px; 
+  }
+
+  nav {
+    flex-direction: column; 
+    gap: 15px; 
+    text-align: center;
+  }
+
+  nav ul {
+    flex-wrap: wrap; 
+    justify-content: center;
+    padding: 0;
+    gap: 15px; 
+  }
+
+  /* Fix the content layout: stacks the image and text vertically */
+  main > section:first-child {
+    flex-direction: column; 
+    padding: 50px 20px; /* Reduces massive padding on small screens */
+    text-align: center;
+  }
+
+  /* Ensures images scale down nicely without breaking out */
+  main img {
+    max-width: 100%;
+    height: auto;
+  }
+}
