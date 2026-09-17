@@ -25,11 +25,11 @@
             <a href="index.html">Herbs Connect</a>
 
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="products.html">Products</a></li>
-                <li><a href="enquiry.html">Enquiry</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="index.html">&#127968; Home</a></li>
+                <li><a href="about.html">&#128100; About Us</a></li>
+                <li><a href="products.html">&#127793; Products</a></li>
+                <li><a href="enquiry.html">&#128221; Enquiry</a></li>
+                <li><a href="contact.html">&#128222; Contact</a></li>
             </ul>
 
         </nav>
@@ -63,93 +63,121 @@
 
             <form action="#" method="post">
 
-                <!-- Full name -->
-                <div>
-                    <label for="name">Full Name:</label>
+                <table>
 
-                    <input
-                        type="text"
-                        id="name"
-                        name="name"
-                        placeholder="Enter your full name"
-                        required
-                    >
-                </div>
+                    <!-- Full name -->
+                    <tr>
+                        <td>
+                            <label for="name">Full Name:</label>
+                        </td>
 
-
-                <!-- Email address -->
-                <div>
-                    <label for="email">Email Address:</label>
-
-                    <input
-                        type="email"
-                        id="email"
-                        name="email"
-                        placeholder="Enter your email address"
-                        required
-                    >
-                </div>
+                        <td>
+                            <input
+                                type="text"
+                                id="name"
+                                name="name"
+                                placeholder="Enter your full name"
+                                required
+                            >
+                        </td>
+                    </tr>
 
 
-                <!-- Phone number -->
-                <div>
-                    <label for="phone">Phone Number:</label>
+                    <!-- Email address -->
+                    <tr>
+                        <td>
+                            <label for="email">Email Address:</label>
+                        </td>
 
-                    <input
-                        type="tel"
-                        id="phone"
-                        name="phone"
-                        placeholder="Enter your phone number"
-                    >
-                </div>
-
-
-                <!-- Product selection -->
-                <div>
-                    <label for="product">Product:</label>
-
-                    <select id="product" name="product" required>
-
-                        <option value="">
-                            Select a product
-                        </option>
-
-                        <option value="herbal-tea">
-                            Herbal Tea Blends
-                        </option>
-
-                        <option value="dried-herbs">
-                            Dried Herbs
-                        </option>
-
-                        <option value="herbal-balms">
-                            Herbal Balms
-                        </option>
-
-                    </select>
-                </div>
+                        <td>
+                            <input
+                                type="email"
+                                id="email"
+                                name="email"
+                                placeholder="Enter your email address"
+                                required
+                            >
+                        </td>
+                    </tr>
 
 
-                <!-- Enquiry message -->
-                <div>
-                    <label for="message">Your Enquiry:</label>
+                    <!-- Phone number -->
+                    <tr>
+                        <td>
+                            <label for="phone">Phone Number:</label>
+                        </td>
 
-                    <textarea
-                        id="message"
-                        name="message"
-                        rows="6"
-                        placeholder="Write your enquiry here..."
-                        required
-                    ></textarea>
-                </div>
+                        <td>
+                            <input
+                                type="tel"
+                                id="phone"
+                                name="phone"
+                                placeholder="Enter your phone number"
+                            >
+                        </td>
+                    </tr>
 
 
-                <!-- Form buttons -->
-                <div>
-                    <button type="submit">Send Enquiry</button>
+                    <!-- Product selection -->
+                    <tr>
+                        <td>
+                            <label for="product">Product:</label>
+                        </td>
 
-                    <button type="reset">Clear Form</button>
-                </div>
+                        <td>
+                            <select id="product" name="product" required>
+
+                                <option value="">
+                                    Select a product
+                                </option>
+
+                                <option value="herbal-tea">
+                                    Herbal Tea Blends
+                                </option>
+
+                                <option value="dried-herbs">
+                                    Dried Herbs
+                                </option>
+
+                                <option value="herbal-balms">
+                                    Herbal Balms
+                                </option>
+
+                            </select>
+                        </td>
+                    </tr>
+
+
+                    <!-- Enquiry message -->
+                    <tr>
+                        <td>
+                            <label for="message">Your Enquiry:</label>
+                        </td>
+
+                        <td>
+                            <textarea
+                                id="message"
+                                name="message"
+                                rows="6"
+                                placeholder="Write your enquiry here..."
+                                required
+                            ></textarea>
+                        </td>
+                    </tr>
+
+
+                    <!-- Form buttons -->
+                    <tr>
+                        <td></td>
+
+                        <td>
+                            <button type="submit">Send Enquiry</button>
+
+                            <button type="reset">Clear Form</button>
+                        </td>
+                    </tr>
+
+                </table>
 
             </form>
 
