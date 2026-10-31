@@ -187,4 +187,46 @@ Sitemap
   ![Samsung Galaxy A55 Landscape](<evidence/Proof-index.html(Samsung Galaxy A55. landscape).png>)
 
 * **Samsung Galaxy A55 (Portrait):**
-  ![Samsung Galaxy A55 Portrait](<evidence/Proof-index.html(Samsung Galaxy A55. Protrait).png>)                        
+  ![Samsung Galaxy A55 Portrait](<evidence/Proof-index.html(Samsung Galaxy A55. Protrait).png>)
+
+
+ What is Search Engine Optimisation?
+ -Search Engine Optimisation abbriviated SEO is simply a practice that is used to help improve the visibiliy of a website on the google platform
+
+
+How it can applied to improve the efficency of the websites
+-So it can impro0ve the efficiency by including or using relevent keywords related to what the website is about which can help users find the website throught the search engines.
+-Adjust images and reducing unnecessary code which can help improve loading speed and as a result it makes a website user freindly and it ensures it works on different devices
+-Another thing is that clear navigation and useeful content contibutes in  helping the users find the informatin easily and improve their overall experience
+-And then monitoring the webisite's performance can done
+
+The advantages of having Search Engine Optimisation in my website
+1.Increaased website visibility
+ -SEO can help the website reach higher in the search results when people search for the website including it's products
+
+2.Attrsct more potential customers
+ -By using the keywords that are related to the website, the website can reach people who are interested in the products related to the website in my case which is Herbs Connect
+
+3.Improves user experience
+ -SEO encourgaes faster loading pages, mobile freindly design, and claer navigation, helping vistors browse products and find information easily 
+
+4.Increase product enquiries 
+ -Better navigation and visibility can encourage visitors to explore products and submit enquiries thorugh the website
+
+
+The actual steps on how Search Engine Optimisation can be applied on my website
+
+1.Improve the pages titles by adding key words to the titles
+2.Optimise meta discriptions by writting unique description for each page, including relevant keywords 
+3.Add relevant keywords to the websites conteent including phrases
+4.Optimiese product imaegs by comptessing them to reduce loading time 
+5.Improve navigation and links to keep the naviagtion menu consistent across all pages and use descriptive links 
+6.Make the mobile website mobile friendly and fast by testing the pages on phones and computers , resize large images and remove unnecesary code to improve loading speed.
+7.Sumbit the website to google once the website is pupblised online, create a google search console account, verify the website and submit a sitemap so google can discover it
+
+
+How the meta element in html can assit us in applying Search Engine Optimisation
+-The meta element helps improve SEO by provding search engines with information about a website. So the meta description summarises the page's content (what the website is about) and may appear in google search results, encourages the users to visit the website
+So in simple terms the meta element helps search engines understand your website and help attract visitors
+
+
