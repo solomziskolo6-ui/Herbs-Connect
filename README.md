@@ -189,18 +189,18 @@ Sitemap
 * **Samsung Galaxy A55 (Portrait):**
   ![Samsung Galaxy A55 Portrait](<evidence/Proof-index.html(Samsung Galaxy A55. Protrait).png>)
 
+ # Serch Engine Optimisation 
+ 1.What is Search Engine Optimisation and it's purpose?
+ -Search Engine Optimisation abbriviated SEO is simply a practice that is used to help improve the visibiliy of a website on the google platform ,its purpose is basically making is easier for users to find information about a website and improves the visibility of the website
 
- What is Search Engine Optimisation?
- -Search Engine Optimisation abbriviated SEO is simply a practice that is used to help improve the visibiliy of a website on the google platform
 
-
-How it can applied to improve the efficency of the websites
+2.How SEO practices can inmprove user experiece and website performance
 -So it can impro0ve the efficiency by including or using relevent keywords related to what the website is about which can help users find the website throught the search engines.
--Adjust images and reducing unnecessary code which can help improve loading speed and as a result it makes a website user freindly and it ensures it works on different devices
+-It Adjust images and reducing unnecessary code which can help improve loading speed and as a result it makes a website user freindly and it ensures it works on different devices
 -Another thing is that clear navigation and useeful content contibutes in  helping the users find the informatin easily and improve their overall experience
 -And then monitoring the webisite's performance can done
 
-The advantages of having Search Engine Optimisation in my website
+3.The benefits implementing Search Engine Optimisation on a website
 1.Increaased website visibility
  -SEO can help the website reach higher in the search results when people search for the website including it's products
 
@@ -214,7 +214,7 @@ The advantages of having Search Engine Optimisation in my website
  -Better navigation and visibility can encourage visitors to explore products and submit enquiries thorugh the website
 
 
-The actual steps on how Search Engine Optimisation can be applied on my website
+4.Explaining and demonstrating specific SEO techniques using HTML, CSS and JavaScript where applicable
 
 1.Improve the pages titles by adding key words to the titles
 2.Optimise meta discriptions by writting unique description for each page, including relevant keywords 
@@ -225,7 +225,7 @@ The actual steps on how Search Engine Optimisation can be applied on my website
 7.Sumbit the website to google once the website is pupblised online, create a google search console account, verify the website and submit a sitemap so google can discover it
 
 
-How the meta element in html can assit us in applying Search Engine Optimisation
+5. The purpose of HTML meta elements 
 -The meta element helps improve SEO by provding search engines with information about a website. So the meta description summarises the page's content (what the website is about) and may appear in google search results, encourages the users to visit the website
 So in simple terms the meta element helps search engines understand your website and help attract visitors
 
